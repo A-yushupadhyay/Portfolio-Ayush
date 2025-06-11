@@ -6,6 +6,14 @@ This is my personal developer portfolio built with **Next.js** and **Tailwind CS
 
  It is Hosted on 👉 (https://portfollio-ayush.vercel.app/)
 
+
+ ![Screenshot (289)](https://github.com/user-attachments/assets/34628755-bf1a-4a5f-9c3c-787e736b4bb2)
+
+![Screenshot (290)](https://github.com/user-attachments/assets/e78eda0e-3cb3-45ac-8b02-3cf5f5c0266e)
+
+ 
+
+
 ---
 
 ## 🛠️ Tech Stack
