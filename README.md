@@ -55,13 +55,6 @@ This is my personal developer portfolio built with **Next.js** and **Tailwind CS
 - Secure Passport.js auth
 - [Source Code](https://github.com/A-yushupadhyay/WanderLust)
 
----
-
-## 📸 Screenshot Preview
-
-![Portfolio Screenshot](public/screenshot.png)
-
-> *(Optional: Add this screenshot image to `/public/screenshot.png` if you want a visual preview in the README)*
 
 ---
 
