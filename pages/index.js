@@ -87,8 +87,41 @@ export default function Home() {
             <a href="https://first-project-1-3p5h.onrender.com/listings" className="inline-block mt-2 px-3 py-1 border border-indigo-500 text-indigo-600 rounded text-sm hover:bg-indigo-50">Live Demo</a>
           </div>
         </div>
+
+
+              {/* Project 4: Fraud_Detector */}
+          <div className="border p-4 rounded-lg shadow hover:shadow-md transition-transform duration-300 transform hover:-translate-y-1 hover:shadow-lg">
+            <h3 className="text-xl font-bold text-indigo-600">Fraud_Detector</h3>
+            <p className="text-sm text-gray-700 mt-2">
+              ML-powered Django web app that detects financial fraud using Random Forest and Logistic Regression. Achieved 96% accuracy and visualized fraud insights using Matplotlib.
+            </p>
+            <div className="mt-2 flex gap-3 text-sm">
+              <a href="https://github.com/A-yushupadhyay/Fraud_Detector-py-" className="inline-block mt-2 px-3 py-1 border border-indigo-500 text-indigo-600 rounded text-sm hover:bg-indigo-50">GitHub</a>
+              {/* <!-- Add live demo if hosted --> */}
+              <a href="https://fraud-detector-py.onrender.com/users/register/" className="inline-block mt-2 px-3 py-1 border border-indigo-500 text-indigo-600 rounded text-sm hover:bg-indigo-50">Live Demo</a>
+            </div>
+          </div>
+
+
+
+
+          {/* Project 5: MiniOS */}
+          <div className="border p-4 rounded-lg shadow hover:shadow-md transition-transform duration-300 transform hover:-translate-y-1 hover:shadow-lg">
+            <h3 className="text-xl font-bold text-indigo-600">MiniOS</h3>
+            <p className="text-sm text-gray-700 mt-2">
+              OS-level command-line system built using C++. Includes user authentication, file management, and a Round Robin CPU scheduler to simulate multitasking.
+            </p>
+            <div className="mt-2 flex gap-3 text-sm">
+              <a href="https://github.com/A-yushupadhyay/MiniOS" className="inline-block mt-2 px-3 py-1 border border-indigo-500 text-indigo-600 rounded text-sm hover:bg-indigo-50">GitHub</a>
+              {/* <!-- Add live demo link if applicable --> */}
+            </div>
+          </div>
+
       </div>
     </div>
+
+
+    
 
                     {/* About + Skills Section */}
         <div className="mt-20 max-w-5xl w-full px-4 mx-auto">
