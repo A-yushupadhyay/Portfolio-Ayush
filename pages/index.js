@@ -36,7 +36,7 @@ export default function Home() {
       </p>
       <div className="flex gap-4">
         <a 
-          href="/Final_Ayush_Upadhyay_resume_software-devloper09.pdf" 
+          href="/Final_Ayush_Upadhyay_Resume_PROFESSIONAL(3).pdf" 
           className="bg-indigo-600 text-white px-6 py-2 rounded-lg shadow hover:bg-indigo-700 transition"
 
           download
